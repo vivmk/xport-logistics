@@ -1,54 +1,54 @@
-# Astro Starter Kit: Basics
+<div align="center">
 
-```
-npm create astro@latest -- --template basics
-```
+# 📦 Xport Logistics
+### *Smart, Scalable, and Streamlined Supply Chain & Freight Solutions*
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/withastro/astro/tree/latest/examples/basics)
+[<img src="https://img.shields.io/badge/Website-xportlogistics.in-blue?style=for-the-badge&logo=google-chrome" alt="Website">](https://xportlogistics.in)
+[![GitHub License](https://img.shields.io/github/license/vivmk/xport-logistics?style=for-the-badge)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/vivmk/xport-logistics?style=for-the-badge)](https://github.com/vivmk/xport-logistics/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/vivmk/xport-logistics?style=for-the-badge)](https://github.com/vivmk/xport-logistics/pulls)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+</div>
 
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
+---
 
+## 🚀 About **Xport Logistics**
 
-## 🚀 Project Structure
+**Xport Logistics** is a modern logistics and supply chain management web application designed to simplify freight forwarding, cross-border shipping, tracking, and warehouse handling. The platform bridges the gap between digital users, exporters, and comprehensive logistics infrastructure, offering real-time tracking, estimation tools, and robust administrative control.
 
-Inside of your Astro project, you'll see the following folders and files:
+---
 
-```
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## ✨ Key Features
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+- **🌐 Live Shipment Tracking:** End-to-end tracking system enabling clients to look up package status, origin, destination, and estimated delivery times.
+- **📊 Interactive Dashboard:** Comprehensive analytical overview providing real-time data metrics for shipments, routing, and logistics management.
+- **💬 Instant Quotations & Inquiries:** Dynamic forms allowing users to calculate shipping requirements, weights, and destinations for quick pricing estimation.
+- **🔐 Secure Client & Admin Portals:** Role-based authentication ensuring secure data handling, user verification, and admin-level operational oversight.
+- **📱 Fully Responsive UI:** Optimized layout providing an intuitive mobile and desktop user experience.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+---
 
-Any static assets, like images, can be placed in the `public/` directory.
+## 🛠️ Tech Stack
 
-## 🧞 Commands
+This project is built using modern web technologies:
 
-All commands are run from the root of the project, from a terminal:
+* **Frontend:** HTML5, CSS3, JavaScript / Modern Frontend Framework *(Update if React/Next.js/Vue)*
+* **Backend:** Node.js / Express / Python *(Update based on your server stack)*
+* **Database:** MongoDB / PostgreSQL *(Update based on your DB choice)*
+* **Hosting & Deployment:** Vercel / Netlify / AWS *(Update as applicable)*
 
-| Command                | Action                                           |
-| :--------------------- | :----------------------------------------------- |
-| `npm install`          | Installs dependencies                            |
-| `npm run dev`          | Starts local dev server at `localhost:3000`      |
-| `npm run build`        | Build your production site to `./dist/`          |
-| `npm run preview`      | Preview your build locally, before deploying     |
-| `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro --help` | Get help using the Astro CLI                     |
+---
 
-## 👀 Want to learn more?
+## ⚙️ Getting Started & Local Installation
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Follow these steps to set up the project locally on your machine:
+
+### Prerequisites
+Make sure you have the following installed:
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/) (v16+ recommended)
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/vivmk/xport-logistics.git](https://github.com/vivmk/xport-logistics.git)
+cd xport-logistics
